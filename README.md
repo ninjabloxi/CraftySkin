@@ -1,3 +1,5 @@
+"NOT TRADUCT THIS PAGE"
+
 For Installing CraftySkin :
 
 Make sure to enter this command into cmd :
